@@ -1,0 +1,40 @@
+body{
+	background: #EDF3FE;
+}
+
+.header{
+	min-height: 60px;
+	background: white;
+}
+
+.cta h1{
+	font-size: 28px;
+	text-align: center;
+	font-weight: 200;
+	line-height: 28px;
+	margin: 50px 0 50px 0;
+}
+
+.cta .boxe{
+	background: white;
+	padding: 20px;
+}
+
+.cta h2{
+	font-size: 22px;
+	line-height: 40px;
+	background: #ffffe0;
+	text-align: center;
+	margin: 0;
+}
+
+ul li{
+	font-size: 16px;
+	color: #666;
+	line-height: 26px;
+}
+
+.cta .btn{
+	min-height: 40px;
+	line-height: 40px;
+}
